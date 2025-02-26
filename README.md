@@ -1,4 +1,4 @@
-# Project 01: Simple REST API with Node.js
+# Simple REST API with Node.js
 
 This project is a simple REST API built using Node.js without any external libraries. It uses the built-in `http` module to handle HTTP requests and the `fs/promises` module to store data in a `db.json` file.
 
@@ -17,18 +17,18 @@ This project is a simple REST API built using Node.js without any external libra
 
 1. Clone the repository:
   ```sh
-  git clone https://github.com/Cassiano26/project-01.git
+  git clone https://github.com/Cassiano26/project-01-fundamentals-backend.git
   ```
 2. Navigate to the project directory:
   ```sh
-  cd project-01
+  cd project-01-fundamentals-backend
   ```
 
 ### Usage
 
 1. Start the server:
   ```sh
-  node server.js
+  npm run dev
   ```
 2. The server will be running on `http://localhost:3333`.
 
